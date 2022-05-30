@@ -1,1 +1,1 @@
-# holberton-smiling-school
+# Project Holberton Smiling School Web Page
